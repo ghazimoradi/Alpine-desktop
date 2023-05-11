@@ -5,6 +5,7 @@ please consider that i'm not developer of the application.
 
 # Install Compiled APK
 Download latest build and install it via following command:
+
 `sudo apk add ksnip-1.10.1-r0.apk`
 
 # Compile from source code
