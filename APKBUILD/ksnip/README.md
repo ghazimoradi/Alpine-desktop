@@ -1,7 +1,7 @@
 # What is ksnip?
-ksnip the cross-platform screenshot and annotation tool
+ksnip is a cross-platform screenshot and annotation tool. please consider that i'm not the developer of the application.
+
 you could visit it's official github page here: https://github.com/ksnip/ksnip
-please consider that i'm not developer of the application.
 
 # Install Compiled APK
 Download latest build and install it via following command:
